@@ -96,7 +96,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.12</version>
+            <version>8.0.16</version>
         </dependency>
         <!--quartz的核心作用，是使任务调度变得丰富、高效、安全，开发者只需要调几个quartz接口并做简单配置-->
         <dependency>
@@ -187,7 +187,7 @@
                         <groupId>mysql</groupId>
                         <artifactId>mysql-connector-java</artifactId>
                         <scope>runtime</scope>
-                        <version>8.0.12</version>
+                        <version>8.0.16</version>
                     </dependency>
                 </dependencies>
             </plugin>
